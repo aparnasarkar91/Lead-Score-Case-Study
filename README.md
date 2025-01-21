@@ -20,6 +20,4 @@ There are some more problems presented by the company which your model should be
 - LeadScoring.ipynb : Python file containing codes for the lead scoring model and related analysis
 - Lead Score Case Study Subjective Questions.pdf : Answers to subjective questions
 - Lead Score Case Study Presentation.pdf : Management Presentation
-- Leads.csv : Dataset worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - Lead Score Case Study Summary.pdf : Summary of the .py file
